@@ -1,2 +1,0 @@
-# ProyectoCSSHosting
-background-color:red;
